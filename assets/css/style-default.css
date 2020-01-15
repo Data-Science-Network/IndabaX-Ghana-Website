@@ -10538,10 +10538,10 @@ lgx-zoomInUp
   bottom: 40px;
   right: 0;
   left: 0;
-}
+}  
 .lgx-countdown-area-squre #lgx-countdown .lgx-days {
   color: #fff;
-  background: #fac400;
+  background: #000d30ff;
 }
 .lgx-countdown-area-squre #lgx-countdown .lgx-hr {
   color: #fff;
